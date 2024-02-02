@@ -1,0 +1,28 @@
+/* list.css */
+.card {
+    background-color: rgba(184, 173, 173, 0.3); /* Dark background color for cards */
+    color: #fff; /* Font color */
+  }
+  
+  .card-title {
+    color: #f8f9fa; /* Title font color */
+  }
+  
+  .card-text {
+    color: #dee2e6; /* Text font color */
+  }
+  .landscape-list .card {
+    height: 100%;
+  }
+  
+  .landscape-list .card-body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .landscape-list .card-title {
+    flex: 1;
+  }
+  
+  

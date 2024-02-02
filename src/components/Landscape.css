@@ -1,0 +1,42 @@
+.bo{
+    background-image: url('../../public/anakato.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    color: #fff; /* Font color */
+    height: 100%;
+    width:  100%;
+}
+.bol{
+    background-image: url('../../public/asw.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center;
+    color: #fff; /* Font color */
+    height: 100%;
+    width:  100%;
+}
+
+.landscape-container {
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    overflow: hidden;
+    height: 100vh;
+    background-color: rgba(96, 90, 90, 0.5); 
+    height: 100%;
+  }
+  
+  .landscape-slide {
+    text-align: center; /* Center the image horizontally */
+    height: 400px; /* Set a fixed height for the slider container */
+    overflow: hidden; /* Hide any overflow to ensure consistency */
+  }
+  
+  .landscape-slide img {
+    width: 100%; /* Ensure images fill the entire slider width */
+    height: 100%; /* Ensure images fill the entire slider height */
+    object-fit: cover; /* Ensure images maintain aspect ratio and cover the entire slider */
+  }
+ 
+  
+  
