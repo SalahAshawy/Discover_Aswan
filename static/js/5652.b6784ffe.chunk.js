@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaswan=self.webpackChunkaswan||[]).push([[5652],{5652:(e,a,t)=>{async function n(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await e.addParticleUpdater("destroy",(async a=>{const{DestroyUpdater:n}=await Promise.all([t.e(4864),t.e(7960)]).then(t.bind(t,7960));return new n(e,a)}),a)}t.d(a,{loadDestroyUpdater:()=>n})}}]);
+//# sourceMappingURL=5652.b6784ffe.chunk.js.map

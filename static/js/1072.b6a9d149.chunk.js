@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaswan=self.webpackChunkaswan||[]).push([[1072],{1072:(a,e,n)=>{async function t(a){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addInteractor("externalSlow",(async a=>{const{Slower:e}=await Promise.all([n.e(4864),n.e(5188)]).then(n.bind(n,5188));return new e(a)}),e)}n.d(e,{loadExternalSlowInteraction:()=>t})}}]);
+//# sourceMappingURL=1072.b6a9d149.chunk.js.map

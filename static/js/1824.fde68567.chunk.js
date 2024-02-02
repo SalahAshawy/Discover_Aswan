@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaswan=self.webpackChunkaswan||[]).push([[1824],{1824:(n,a,e)=>{async function s(n){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{AbsorbersPlugin:s}=await Promise.all([e.e(4864),e.e(8940)]).then(e.bind(e,8940));await n.addPlugin(new s,a)}e.d(a,{loadAbsorbersPlugin:()=>s})}}]);
+//# sourceMappingURL=1824.fde68567.chunk.js.map

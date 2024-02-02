@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaswan=self.webpackChunkaswan||[]).push([[9796],{9796:(e,a,t)=>{async function n(e){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await e.addParticleUpdater("strokeColor",(async e=>{const{StrokeColorUpdater:a}=await Promise.all([t.e(4864),t.e(8440)]).then(t.bind(t,8440));return new a(e)}),a)}t.d(a,{loadStrokeColorUpdater:()=>n})}}]);
+//# sourceMappingURL=9796.1b068acb.chunk.js.map
